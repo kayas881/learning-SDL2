@@ -5,4 +5,4 @@ Moving grass i think
 # to run this code
 
 1. copy this repository
-2. just type "make" in the terminal
+2. just type "make" in the terminal or mingw32-make
